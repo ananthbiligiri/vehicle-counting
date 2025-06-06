@@ -14,6 +14,7 @@ This project is a real-time vehicle detection and counting system using the **YO
 * Python
 * OpenCV
 * Streamlit
+* YOLO
 ## lib used
 ```bash
 pip install streamlit==1.35.0 opencv-python==4.9.0.80 ultralytics==8.1.28 numpy==1.24.3 pillow==9.5.0
